@@ -9,7 +9,7 @@ Journeyman CNC Machinist / Programmer
 
 ### Sierra College, Rocklin CA | AA Computer Science
 **2006 - 2009** | Programming courses included
-    • HTML, CSS, PHP, SQL, Assembly, C, C++, and Linux.****
+HTML, CSS, PHP, SQL, Assembly, C, C++, and Linux
 
 <br/>
 <br/>
@@ -63,15 +63,15 @@ This was a freelance project to redesign the website of a local professional sin
 
 # Work Projects
 ### Post Processor Design
-**Description**: A post processor takes generated NCI info from Mastercam and runs it through the "post" to generate NC code.
+**Description**: A post processor takes generated NCI info from Mastercam and runs it through the "post" to generate NC code.  
 **Summary**: Generic posts come with the software but I have made dozen of improvements to ours, tailored for our workplace. One feature I am proud of is the extraction and generation of axis positions from the 3D models of the parts. This allows the operator to completely skip a time consuming step. Win! (All self-taught because Mastercam resellers want you to buy their posts) Another money saving feature is statically written probing cycles, masquerading as custom drill cycles. This allows me to use the Mastercam interface to output custom probing cycles, without having to buy the ProductivityPlus probing package.
 
 ### ShaggysLittleHelper | [Repo]()
-**Tech**: AutoIt
+**Tech**: AutoIt  
 **Description**: A utility app that simplifies and automates multiple aspects of my workflow and Mastercam programming. It runs in the tray providing hotkeys, tasks shortcuts and scripted click-throughs. I use it every day and add features when I need.
 
 ### Serial Sender | [Repo]()
-**Tech**: NodeJs, Express, serial port communications
+**Tech**: NodeJs, Express, serial port communications  
 **Description**: A SPA that runs locally. It simply provides a search interface for the programs, then uses a serial module to transmit the file into theh CNC machine.
 
 ### Setupsheets Web App | [Repo](https://gitlab.com/harris-bruno/setupsheets)
@@ -85,14 +85,14 @@ This was a freelance project to redesign the website of a local professional sin
 **Website**: [inventory.hbcnc.shop](http://inventory.hbcnc.shop)  
 **Tech**: PHP, Laravel, Bootstrap  
 **Services**: DigitalOcean, Google oAuth, Algolia  
-**Description**: Website application for tracking component inventory, monitoring levels, re-ordering, and email alerts.
+**Description**: Website application for tracking component inventory, monitoring levels, re-ordering, and email alerts.  
 **Summary**: We had a new cnc machine installed and I was tasked with tooling up the machine. I wanted to keep an inventory of all the drill, tap, endmills, etc. Initially I had a detailed Google Sheet, but I later used the framework from the setupsheet app to create a similiar app. Included was an implementation of a shopping cart so I could "re-order" my own inventory. (It just sent off a nicely formated email to purchasing with part numbers and links to make it as easy as possible for them to get me what I need.)
 
 ### GEMBA App | [Repo](https://gitlab.com/harris-bruno/gemba-app)
 **Tech**: Typescript, Monorepo, NodeJs, Vue, Vuetify  
-**Description**: Report Aggregator with stats calculation and charts.
-**Summary**: Born from the depths of my frustration with an admin task, I have been working on an app to reduce a daily task to fully automatic.
-**Problem**: Every day we have OnePoint generate a report for the employees that worked and NetSuite generates a report of all the jobs completed and hours, etc. Each day someone takes both reports, and inputs the data into a third spread sheet to calculate some more values. One of the reports is also manually pivoted and printed to be distributed to each workcenter.
+**Description**: Report Aggregator with stats calculation and charts.  
+**Summary**: Born from the depths of my frustration with an admin task, I have been working on an app to reduce a daily task to fully automatic.  
+**Problem**: Every day we have OnePoint generate a report for the employees that worked and NetSuite generates a report of all the jobs completed and hours, etc. Each day someone takes both reports, and inputs the data into a third spread sheet to calculate some more values. One of the reports is also manually pivoted and printed to be distributed to each workcenter.  
 **Solution**: I have been working on a site, with integrated processors for the reports. So far I have completed both report processors, a department service for normalizing the names between the two. An "UPEH" service, which calculates the required data from the two reports. This serivce powers a CLI tool that I use to manage processing the reports and creating bundles of the output. I took inspiration from eslint and webpack, using clipanion (powers yarn!) The service also power a Vue app that will handle uploading of reports and displaying the charts and tables.
 
 ### CNC Assistant | [Repo](https://gitlab.com/harris-bruno/cnc-assistant)
@@ -125,7 +125,7 @@ This was a freelance project to redesign the website of a local professional sin
 
 
 ### G84 Checker | [Gitlab Repo](https://gitlab.com/harris-bruno/g84-checker)
-**Tech**: Python
+**Tech**: Python  
 **Description**: Small utility program that scans an NC file for any taps that are not using G84. It can be used from the command line, when given a path to an NC file.    
 **Summary**: Our old tool libraries had tools with the wrong cycle code applied. When posting from Mastercam, a tap could end up with a `G81` which will break the tap. This little tool searches for tool comments with `TAP` in the name and assumes a `G84` should be present. If not, it returned the result and we then alert the programmer that they might be breaking a tool. Save me quite a few times.
 
