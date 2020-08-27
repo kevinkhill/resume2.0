@@ -40,13 +40,13 @@ HTML, CSS, Node, Typescript, Javascript, PHP, SQL, Python, Java, C, Shell Script
 ### PhpDuration - Converting / Storing durations of time
 **Repo**: https://github.com/kevinkhill/php-duration/  
 **Stats**: [211+ packagist installs](https://packagist.org/packages/khill/php-duration), [125 stars](https://github.com/kevinkhill/php-duration/stargazers), and [7 contributors](https://github.com/kevinkhill/php-duration/graphs/contributors)  
-**Tech**: PHP
+**Tech**: PHP  
 **Description**: Created for Harris & Bruno to use in the setup sheet website, for storing and representing program runtimes. Later released as an open source project since I couldn’t find a good library elsewhere. It has filled a niche with 127,000+ downloads, almost 100 starts, and 6 other users contributing code and bug fixes.
 
 ### FontAwesomePHP - A PHP library for Font Awesome Icons 
-**Website**: https://kevinkhill.github.io/FontAwesomePHP/
-**Repo**: https://github.com/kevinkhill/FontAwesomePHP
-**Tech**: PHP
+**Website**: https://kevinkhill.github.io/FontAwesomePHP/  
+**Repo**: https://github.com/kevinkhill/FontAwesomePHP  
+**Tech**: PHP  
 **Description**: Another personal project, but released later to the public because I found it useful. While smaller than Lavacharts, 24k+ people have found it useful enough to download it.
 
 <br/>
