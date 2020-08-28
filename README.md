@@ -26,7 +26,7 @@
 # Software & Languages
 
 **Learned Formally**: HTML, CSS, PHP, SQL, Java, C  
-**Self Taught**: Typescript/Javascript, NodeJs, Python, Shell Script, AutoIt, Lua
+**Self Taught**: Typescript/Javascript, NodeJs, Python, Shell Script, AutoIt, Lua, Git, shell scripts, Docker, Virtualbox, linux server administration
 
 ### Software
 
@@ -48,7 +48,7 @@
 
 **Repo**: https://github.com/kevinkhill/lavacharts  
 **Website**: [lavacharts.com](http://lavacharts.com)  
-**Stats**: [646K+ packagist installs](https://packagist.org/packages/khill/lavacharts), [1,300+ commits](https://github.com/kevinkhill/lavacharts/commits/3.1), [used by 1K+](https://github.com/kevinkhill/lavacharts/network/dependents?package_id=UGFja2FnZS01NDI1Nzc2NjY%3D), [576 stars](https://github.com/kevinkhill/lavacharts/stargazers), [62 releases](https://github.com/kevinkhill/lavacharts/releases), and [18 contributors](https://github.com/kevinkhill/lavacharts/graphs/contributors)
+**Stats**: [646K+ packagist installs](https://packagist.org/packages/khill/lavacharts), [1,300+ commits](https://github.com/kevinkhill/lavacharts/commits/3.1), [used by 1K+](https://github.com/kevinkhill/lavacharts/network/dependents?package_id=UGFja2FnZS01NDI1Nzc2NjY%3D), [576 stars](https://github.com/kevinkhill/lavacharts/stargazers), [62 releases](https://github.com/kevinkhill/lavacharts/releases), & [18 contributors](https://github.com/kevinkhill/lavacharts/graphs/contributors)
 **Tech**: PHP, JS  
 **Description**: PHP Library for composing charts, serverside, and having the charts rendered in the browser with the Google Chart API  
 **Summary**: I have been developing Lavacharts for close to a decade now, with an active user base and many contributors. It evolved from a need to have charts in a website I was making. It initially was a CodeIgniter package, then a Laravel package, and a Composer package. It used to string concat javscript together, then real javascript files, then Typescript! I have had so much fun and learned so much from maintaining this project.
@@ -64,9 +64,9 @@
 ### PhpDuration - Converting / Storing durations of time
 
 **Repo**: https://github.com/kevinkhill/php-duration/  
-**Stats**: [211K+ packagist installs](https://packagist.org/packages/khill/php-duration), [125 stars](https://github.com/kevinkhill/php-duration/stargazers), and [7 contributors](https://github.com/kevinkhill/php-duration/graphs/contributors)  
+**Stats**: [211K+ packagist installs](https://packagist.org/packages/khill/php-duration), [125 stars](https://github.com/kevinkhill/php-duration/stargazers), & [7 contributors](https://github.com/kevinkhill/php-duration/graphs/contributors)  
 **Tech**: PHP  
-**Description**: Created for Harris & Bruno to use in the setup sheet website, for storing and representing program runtimes. Later released as an open source project since I couldn’t find a good library elsewhere. It has filled a niche with 127,000+ downloads, almost 100 starts, and 6 other users contributing code and bug fixes.
+**Description**: Created for Harris & Bruno to use in the setup sheet website, for storing and representing program runtimes. Later released as an open source project since I couldn’t find a good library elsewhere. It has filled a niche with 127K+ downloads, almost 100 starts, and 6 other users contributing code and bug fixes.
 
 ### FontAwesomePHP - A PHP library for Font Awesome Icons
 
@@ -214,16 +214,6 @@ This section is about all my pet projects, that relate to code in some form or a
 **Tech**: Raspberry Pi, Python, Circuitry  
 **Summary**: Using a magnetic reed switch, setting up a sensor for a garage door that can notify the status to a webapp. I also took apart an old opener and hooked it to the GPIO of the pi to enable web based remote control!
 
-### Xbox Modding
-
-**Tech**: Xbox, Hardward  
-**Summary**: Swapping the hard drive for a 1TB in the original Xbox. Then softmodding and installing XBMC (what is now KODI). Playing Super Mario World, through an emulator, on an Xbox was quite an accomplishment.
-
-### Phone Rooting
-
-**Tech**: Android  
-**Summary**: I have rooted and installed custom roms on most of my phones.
-
 ### Ikariam | [Repo](https://github.com/kevinkhill/ikariam)
 
 **Tech**: Javascript  
@@ -248,3 +238,21 @@ This section is about all my pet projects, that relate to code in some form or a
 
 **Tech**: PHP, Javascript, Bootstrap
 **Summary**: I needed a webui to manage permissions for the Setup Sheets app and at the time, there wasn't one. I made this but never really finished it as I ended up ditching the system.
+
+## Accomplishments
+
+### SkillsUSA | CAD / CAM competitions
+
+**Treasurer**: Managed our fundraising and assisting in creating a budget for travel  
+**Regionals**: Gold medal and advanced to State Championships  
+**State**: Won 7th place even though I got sick before the trip (never give up!)
+
+### Xbox Modding
+
+**Tech**: Xbox, Hardward  
+**Summary**: Swapping the hard drive for a 1TB in the original Xbox. Then softmodding and installing XBMC (what is now KODI). Playing Super Mario World, through an emulator, on an Xbox was quite an accomplishment.
+
+### Phone Rooting
+
+**Tech**: Android  
+**Summary**: I have rooted and installed custom roms on most of my phones.
