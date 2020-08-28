@@ -4,14 +4,22 @@
 
 ### Sierra College, Rocklin CA | AA Computer Science
 
-**2006 - 2009** | General Education & Programming  
-Courses included C, Bash, Java, HTML, and PHP
+**2002 - 2006** | Rocklin High School Graduate  
+**2006 - 2009** | General Education & Programming; C, Bash, Java, HTML, and PHP
 
 # Job History
 
 ### Harris & Bruno | Journeyman Machinist, CNC Programmer
 
-**2006 - Present** | Extensive range of responsibilties over the years included:
+**2006 - Present** | Extensive range of responsibilties over the years
+
+- Mastercam version migrations across multiple PCs
+- Managing our program vault and creating a set of standards for using it [1]
+- I was tasked with tooling, fixturing, and programming a brand new machine installation.
+- Created an extensive spreadsheet tracking all the programs and tooling for a pair of CNC machines.
+- Created an "app" out of a Google Sheet (wrote some additional scripts) for my supervisor to assign programming tasks and track completeness.
+- Given admin passwords and server room access in case our sole IT provider is away.
+- Dozens of other scripts, tools, sites, apps and such to ease my job.
 
 <br/>
 
@@ -23,7 +31,7 @@ Courses included C, Bash, Java, HTML, and PHP
 ### Software
 
 - Graphical
-  - Mastercam (14 years)
+  - Mastercam (10+ years)
   - Excel / Spreadsheet software
   - VS Code
   - PHP Storm
